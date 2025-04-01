@@ -11,4 +11,8 @@ public class Tst {
 	public void ME() {
 		System.out.println("Inside me method");
 	}
+	
+	public void HZ() {
+		System.out.println("Inside HZ method");
+	}
 }
