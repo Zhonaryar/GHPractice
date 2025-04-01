@@ -7,4 +7,12 @@ public class Tst {
 		System.out.println("Second one in Test method");
 		System.out.println("3rd one in Test method");
 	}
+	
+	public void ME() {
+		System.out.println("Inside me method");
+	}
+	
+	public void HZ() {
+		System.out.println("Inside HZ method");
+	}
 }
